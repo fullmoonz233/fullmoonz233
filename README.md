@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**愿为江水，与君重逢**
+
 <!--
 **fullmoonz233/fullmoonz233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
