@@ -1,6 +1,6 @@
 **愿为江水，与君重逢**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fullmoonz233&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fullmoonz233&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
 
