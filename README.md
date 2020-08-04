@@ -1,8 +1,8 @@
-### Hi there 👋
-
 **愿为江水，与君重逢**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fullmoonz233)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fullmoonz233&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **fullmoonz233/fullmoonz233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
